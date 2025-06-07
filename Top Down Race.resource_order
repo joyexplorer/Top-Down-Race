@@ -17,7 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_car1","order":2,"path":"objects/obj_car1/obj_car1.yy",},
+    {"name":"obj_car2","order":3,"path":"objects/obj_car2/obj_car2.yy",},
+    {"name":"obj_car3","order":4,"path":"objects/obj_car3/obj_car3.yy",},
     {"name":"obj_control","order":1,"path":"objects/obj_control/obj_control.yy",},
     {"name":"Background01","order":1,"path":"sprites/Background01/Background01.yy",},
+    {"name":"spr_car1","order":2,"path":"sprites/spr_car1/spr_car1.yy",},
+    {"name":"spr_car2","order":3,"path":"sprites/spr_car2/spr_car2.yy",},
+    {"name":"spr_car3","order":4,"path":"sprites/spr_car3/spr_car3.yy",},
   ],
 }
