@@ -1,5 +1,5 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-speed = 9;
+speed = 10;
 direction = 270;

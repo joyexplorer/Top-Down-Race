@@ -15,6 +15,10 @@ switch(nextCar){
 			instance_create_layer(302, -150, "instances", obj_car1);
 		}
 		
+		if(nextSide == 3){
+			instance_create_layer(choose(160, 224, 288, 320), -150, "instances", choose(obj_obstacle1, obj_obstacle2));
+		}
+		
 		break;
 		
 	case "2":
@@ -25,6 +29,10 @@ switch(nextCar){
 		
 		if(nextSide == 2){
 			instance_create_layer(302, -150, "instances", obj_car2);
+		}
+		
+		if(nextSide == 3){
+			instance_create_layer(choose(160, 224, 288, 320), -150, "instances", choose(obj_obstacle1, obj_obstacle2));
 		}
 		
 		break;
@@ -38,8 +46,12 @@ switch(nextCar){
 		if(nextSide == 2){
 			instance_create_layer(302, -150, "instances", obj_car3);
 		}
-	
-	
+		
+		if(nextSide == 3){
+			instance_create_layer(choose(160, 224, 288, 320), -150, "instances", choose(obj_obstacle1, obj_obstacle2));
+		}
+		
+		break;
 	}
 	
-	alarm[0] = 60;
+	alarm[0] = 50;
