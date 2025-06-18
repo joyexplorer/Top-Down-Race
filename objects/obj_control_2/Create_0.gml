@@ -4,4 +4,4 @@ randomize();
 alarm[0] = 120;
 
 mDistanceTraveled = 0;
-kmToGo = 2;
+kmToGo = 3;
