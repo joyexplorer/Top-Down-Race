@@ -1,3 +1,4 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-global.hasCollided = true;
+global.passLevel = false;
+global.hasCollided = false;

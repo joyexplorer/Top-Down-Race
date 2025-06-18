@@ -18,6 +18,7 @@ else if(mDistanceTraveled > 2000 and mDistanceTraveled < 3000){
 else if(mDistanceTraveled > 3000){
 
 	kmToGo = 0;
+	global.passLevel = true;
 
 }
 
