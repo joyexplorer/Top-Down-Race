@@ -5,3 +5,18 @@ if(global.mouseClick){
 }
 
 x = clamp(x, 128, 350);
+
+if(global.headlight){
+
+	if(!instance_exists(obj_headlight)){
+	
+		instance_create_layer(x, y-50, "instances", obj_headlight);
+	
+	}
+
+}
+else{
+
+	instance_destroy(obj_headlight);
+
+}
