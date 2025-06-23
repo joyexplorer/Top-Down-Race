@@ -49,6 +49,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"scr_changeSide","path":"scripts/scr_changeSide/scr_changeSide.yy",},},
+    {"id":{"name":"snd_background","path":"sounds/snd_background/snd_background.yy",},},
     {"id":{"name":"spr_background01","path":"sprites/spr_background01/spr_background01.yy",},},
     {"id":{"name":"spr_background02","path":"sprites/spr_background02/spr_background02.yy",},},
     {"id":{"name":"spr_car1","path":"sprites/spr_car1/spr_car1.yy",},},
