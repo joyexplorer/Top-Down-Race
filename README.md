@@ -24,13 +24,12 @@ If the player crashes, the game restarts with a small visual effect.
 
 ---
 
-## 📷 Imagens do Jogo
+## 📷 Game images
 
-![Tela Inicial, level 1](https://github.com/joyexplorer/Super-Arkanoid/blob/47e68ee4f71a3f9cee7b2aaa49ff623358cc33b0/Captura%20de%20tela%202025-06-19%20155438.png)
-![level 2](https://github.com/joyexplorer/Super-Arkanoid/blob/47e68ee4f71a3f9cee7b2aaa49ff623358cc33b0/Captura%20de%20tela%202025-06-19%20155438.png)
-![level 3](https://github.com/joyexplorer/Super-Arkanoid/blob/47e68ee4f71a3f9cee7b2aaa49ff623358cc33b0/Captura%20de%20tela%202025-06-19%20155330.png)
-![power-up](https://github.com/joyexplorer/Super-Arkanoid/blob/47e68ee4f71a3f9cee7b2aaa49ff623358cc33b0/Captura%20de%20tela%202025-06-19%20155226.png)
-![power-up](https://github.com/joyexplorer/Super-Arkanoid/blob/47e68ee4f71a3f9cee7b2aaa49ff623358cc33b0/Captura%20de%20tela%202025-06-19%20155407.png).
+![level 1](https://github.com/joyexplorer/Top-Down-Race/blob/main/fase1.png)
+![level 1](https://github.com/joyexplorer/Top-Down-Race/blob/main/fase1.2.png)
+![level 2](https://github.com/joyexplorer/Top-Down-Race/blob/main/fase2.png)
+![level 2](https://github.com/joyexplorer/Top-Down-Race/blob/main/fase2.2.png)
 
 ## 💻 Technologies Used
 
